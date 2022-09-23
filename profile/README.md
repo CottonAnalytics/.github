@@ -1,5 +1,5 @@
 # 🌾 Cotton Analytics 🌾
- Empresa com uma solução digital, para um problema real
+ Uma solução digital, para um problema real
 
 ## Integrantes: 
 - Isabella Neves
